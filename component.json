@@ -1,7 +1,7 @@
 {
   "name": "websocket-buffering",
   "repo": "Swatinem/websocket-buffering",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "small wrapper around websocket that does message buffering and reconnects",
   "keywords": [],
   "main": "lib/index.js",
@@ -9,6 +9,7 @@
     "lib/index.js"
   ],
   "dependencies": {
+    "component/emitter": "*"
   },
   "license": "LGPLv3"
 }

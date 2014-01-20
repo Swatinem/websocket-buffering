@@ -1,7 +1,7 @@
 {
   "name": "websocket-buffering",
   "description": "small wrapper around websocket that does message buffering and reconnects",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": ["websocket"],
   "main": "./index",
   "maintainers": [

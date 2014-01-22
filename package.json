@@ -8,6 +8,7 @@
     "Arpad Borsos <arpad.borsos@googlemail.com> (http://swatinem.de)"
   ],
   "dependencies": {
+    "emitter-component": "*",
     "ws": "*"
   },
   "devDependencies": {

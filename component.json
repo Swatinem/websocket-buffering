@@ -5,6 +5,9 @@
   "description": "small wrapper around websocket that does message buffering and reconnects",
   "keywords": [],
   "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
   "dependencies": {
     "component/emitter": "*"
   },

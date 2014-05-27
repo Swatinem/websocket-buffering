@@ -52,3 +52,5 @@ This opens up a new connection when it is not open yet. Does nothing otherwise.
 
   LGPLv3
 
+  Released as free software as part of [ChatGrape](https://chatgrape.com/)
+
